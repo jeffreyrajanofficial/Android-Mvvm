@@ -1,6 +1,6 @@
 # Android Mvvm (Kotlin)
 
-This is a simple example MVVM clean architecture which includes 
+This is a simple example of MVVM clean architecture which includes 
 
 - Mvvm
 - Dagger 2
